@@ -9,4 +9,7 @@ class Shoe
   end
   
   def condition
-    puts "new"
+    puts "New"
+  end
+  
+end  
