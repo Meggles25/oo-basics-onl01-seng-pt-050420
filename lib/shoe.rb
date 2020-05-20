@@ -9,7 +9,7 @@ class Shoe
   end
   
   def condition
-    puts "New"
+    puts "tattered"
   end
   
 end  
